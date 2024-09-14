@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android Programming
 - 🌱 I’m currently learning in school
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Telegram: @draku_graf    Instagram: @draku_graf
+- 📫 How to reach me Telegram: @mirkomi1_1    Instagram: @mirkomi1_1
 
 <!---
 Drakula15/Drakula15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
